@@ -1,3 +1,2 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=0:0080ff,50:43c8b0&height=300&section=header&text=WELCOM&fontSize=95&fontAlign=50&animate,fadeIn&fontColor=f7e2df)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDongYeop&show_icons=true&theme=flag-india)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDOngYeop&layout=compact&theme=flag-india)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDongYeop&show_icons=true&theme=flag-india) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDOngYeop&layout=compact&theme=flag-india)
