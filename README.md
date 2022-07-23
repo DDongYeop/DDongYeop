@@ -11,7 +11,7 @@
   
   ### PORTFOLIO 
   ---
- \
+
   <br/>
 
   <a href="https://www.youtube.com/channel/UCpymkxdZXbUZGPvh6tTtdDQ"><img src="https://img.shields.io/badge/Youtube-e61919?style=flat-square&logo=Youtube&logoColor=FFFFF"/></a>
@@ -35,7 +35,7 @@
   
   ### I can do it 
   ---
- \
+ 
   <br/>
 
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/></a>
