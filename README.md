@@ -42,14 +42,11 @@
  \
   <br/>
 
-  <a href="https://www.youtube.com/channel/UCpymkxdZXbUZGPvh6tTtdDQ"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/></a>
-  <a href="https://www.youtube.com/channel/UCpymkxdZXbUZGPvh6tTtdDQ"><img src="https://img.shields.io/badge/C-191919?style=flat-square&logo=C&logoColor=A8B9CC"/></a>
-  <a href="https://www.youtube.com/channel/UCpymkxdZXbUZGPvh6tTtdDQ"><img src="https://img.shields.io/badge/C Sharp
--EE9FAE?style=flat-square&logo=C Sharp&logoColor=239120"/></a>
-  <a href="https://www.youtube.com/channel/UCpymkxdZXbUZGPvh6tTtdDQ"><img src="https://img.shields.io/badge/GitHub
--FFFFFF?style=flat-square&logo=GitHub&logoColor=181717"/></a>
-<a href="https://www.youtube.com/channel/UCpymkxdZXbUZGPvh6tTtdDQ"><img src="https://img.shields.io/badge/Sourcetree
--FFCC80?style=flat-square&logo=Sourcetree&logoColor=0052CC"/></a>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/></a>
+  <img src="https://img.shields.io/badge/C-191919?style=flat-square&logo=C&logoColor=A8B9CC"/></a>
+  <img src="https://img.shields.io/badge/C Sharp-EE9FAE?style=flat-square&logo=C Sharp&logoColor=239120"/></a>
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=GitHub&logoColor=181717"/></a>
+  <img src="https://img.shields.io/badge/Sourcetree-FFCC80?style=flat-square&logo=Sourcetree&logoColor=0052CC"/></a>
 
 
 
