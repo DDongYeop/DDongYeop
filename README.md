@@ -7,20 +7,27 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDOngYeop&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=6"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDOngYeop&theme=flag-india_repo=Computer-Science-Engineering&layout=compact&langs_count=6"/>
   
   ### PORTFOLIO 
-  
+  ---
+ \
   <br/>
 
   <a href="https://www.youtube.com/channel/UCpymkxdZXbUZGPvh6tTtdDQ"><img src="https://img.shields.io/badge/Youtube-e61919?style=flat-square&logo=Youtube&logoColor=FFFFF"/></a>
-  <a href="http://ggm.gondr.net/user/profile/274"><img src="https://img.shields.io/badge/School-FFFF00?style=flat-square&logo=GGM/&logoColor=000000"/></a>
+  <a href="http://ggm.gondr.net/user/profile/274"><img src="https://img.shields.io/badge/School-4285F4?style=flat-square&logo=Google Scholar&logoColor=FFFFFF"/></a>
+
 
   <br>
  
 </div>
 
 <br/>
+<br/>
+<br/>
+
+  ---
+  \
 <br/>
 <br/>
 <br/>
@@ -30,12 +37,13 @@
   
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DDongYeop&show_icons=true&theme=flag-india"/>
   
-  ### Dongyeop Kyung 
-  
+  ### I can do it 
   ---
  \
-  <a href="https://www.youtube.com/channel/UCpymkxdZXbUZGPvh6tTtdDQ"><img src="https://img.shields.io/badge/Youtube-e61919?style=flat-square&logo=Youtube&logoColor=FFFFF"/></a>
-  <a href="http://ggm.gondr.net/user/profile/274"><img src="https://img.shields.io/badge/School-FFFF00?style=flat-square&logo=GGM/&logoColor=000000"/></a>
+  <a href="https://www.youtube.com/channel/UCpymkxdZXbUZGPvh6tTtdDQ"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/></a>
+  <a href="https://www.youtube.com/channel/UCpymkxdZXbUZGPvh6tTtdDQ"><img src="https://img.shields.io/badge/C-191919?style=flat-square&logo=C&logoColor=A8B9CC"/></a>
+  <a href="https://www.youtube.com/channel/UCpymkxdZXbUZGPvh6tTtdDQ"><img src="https://img.shields.io/badge/C Sharp
+-EE9FAE?style=flat-square&logo=C Sharp&logoColor=239120"/></a>
 
 
   <br>
