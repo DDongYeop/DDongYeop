@@ -12,8 +12,6 @@
   ### PORTFOLIO 
   ---
 
-  <br/>
-
   <a href="https://www.youtube.com/channel/UCpymkxdZXbUZGPvh6tTtdDQ"><img src="https://img.shields.io/badge/Youtube-e61919?style=flat-square&logo=Youtube&logoColor=FFFFF"/></a>
   <a href="http://ggm.gondr.net/user/profile/274"><img src="https://img.shields.io/badge/School-4285F4?style=flat-square&logo=Google Scholar&logoColor=FFFFFF"/></a>
 
@@ -35,8 +33,6 @@
   
   ### I can do it 
   ---
- 
-  <br/>
 
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/></a>
   <img src="https://img.shields.io/badge/C-191919?style=flat-square&logo=C&logoColor=A8B9CC"/></a>
