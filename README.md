@@ -23,7 +23,6 @@
 <br/>
 
   ---
-  \
 
 
 <div align="center">
