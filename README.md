@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDOngYeop&theme=flag-india_repo=Computer-Science-Engineering&layout=compact&langs_count=6"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=DDongYeop&show_icons=true&theme=flag-india"/>
   
   ### PORTFOLIO 
   ---
@@ -21,22 +21,27 @@
 </div>
 
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
   ---
 
+<br/>
 
 <div align="center">
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DDongYeop&show_icons=true&theme=flag-india"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDOngYeop&theme=flag-india_repo=Computer-Science-Engineering&layout=compact&langs_count=6"/>
   
   ### I can do it 
   ---
 
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/></a>
-  <img src="https://img.shields.io/badge/C-191919?style=flat-square&logo=C&logoColor=A8B9CC"/></a>
-  <img src="https://img.shields.io/badge/C Sharp-EE9FAE?style=flat-square&logo=C Sharp&logoColor=239120"/></a>
-  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=GitHub&logoColor=181717"/></a>
-  <img src="https://img.shields.io/badge/Sourcetree-FFCC80?style=flat-square&logo=Sourcetree&logoColor=0052CC"/></a>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/></a>
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=FFFFFF"/></a>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=FFFFFF"/></a>
 
 
 
