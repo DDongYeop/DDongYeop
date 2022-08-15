@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=DDongYeop&show_icons=true&theme=flag-india"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=DDongYeop&show_icons=true&theme=nightowl"/>
   
   ### PORTFOLIO 
   ---
@@ -32,7 +32,7 @@
 
 <div align="center">
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDOngYeop&theme=flag-india_repo=Computer-Science-Engineering&layout=compact&langs_count=6"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDOngYeop&theme=nightowl_repo=Computer-Science-Engineering&layout=compact&langs_count=6"/>
   
   ### I can do it 
   ---
