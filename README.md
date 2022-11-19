@@ -9,7 +9,7 @@
   
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=DDongYeop&show_icons=true&theme=nightowl"/>
   
-  ### PORTFOLIO 
+  ## PORTFOLIO 
   ---
 
   <a href="https://www.youtube.com/channel/UCpymkxdZXbUZGPvh6tTtdDQ"><img src="https://img.shields.io/badge/Youtube-e61919?style=flat-square&logo=Youtube&logoColor=FFFFF"/></a>
@@ -34,7 +34,7 @@
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDOngYeop&theme=nightowl_repo=Computer-Science-Engineering&layout=compact&langs_count=6"/>
   
-  ### I can do it 
+  ## I can do it 
   ---
 
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/></a>
