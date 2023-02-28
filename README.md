@@ -14,8 +14,8 @@
 
   <a href="https://www.youtube.com/channel/UCpymkxdZXbUZGPvh6tTtdDQ"><img src="https://img.shields.io/badge/Youtube-e61919?style=flat-square&logo=Youtube&logoColor=FFFFF"/></a>
   <a href="http://ggm.gondr.net/user/profile/274"><img src="https://img.shields.io/badge/School-4285F4?style=flat-square&logo=Google Scholar&logoColor=FFFFFF"/></a>
-  <a href="https://enchanted-otter-fc8.notion.site/Dongyeop-Kyung-7d3daa9a293c4ea989fc8683d885c85a"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
-  <a href="https://www.notion.so/Dongyeop-Kyung-ee700390ba1b4383b291a7e0bb304288?pvs=4"><img src="https://img.shields.io/badge/Notion_DevelopmentLog-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
+  <a href="https://yielding-beet-8dc.notion.site/Dongyeop-Kyung-ee700390ba1b4383b291a7e0bb304288"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
+  <a href="https://yielding-beet-8dc.notion.site/08a6f0be8a7a4d6bb424782056022f0f"><img src="https://img.shields.io/badge/Notion_DevelopmentLog-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
 
 
   <br>
