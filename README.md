@@ -25,10 +25,6 @@
 
 
 </br>ㅤ
-<a href="https://ddongyeop.notion.site/ee700390ba1b4383b291a7e0bb304288?pvs=4">
-    <img width="400" src="https://cdn.discordapp.com/attachments/935887597505478717/1218941997331775579/af7bf38906cde8c2.png?ex=66097f33&is=65f70a33&hm=788e76074a3794950d82617c64e4335e7d66880f9a7fb408176254f0fb017ed2&">
-<a href="https://ddongyeop.notion.site/a99946a6f8ba46619043b649f2d9871b?v=cddc43b2808946dd8734fb6062e078d2&pvs=4">
-    <img width="400" src="https://cdn.discordapp.com/attachments/935887597505478717/1218941997633507459/a2d9f3552a888812.png?ex=66097f33&is=65f70a33&hm=b1842429adcd30d3bebd7c861b509e4a76a6f3e534d5482dda737efa8a480c27&">
 </a>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddongyeop0129)](https://solved.ac/ddongyeop0129)
 ![DDongYeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDongYeop&show_icons=true&theme=dracula)
