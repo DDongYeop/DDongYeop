@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 # <center>**모바일 특화** 개발자</br>경동엽입니다.</br>ㅤ</center>
 #### <center></br>Logcat과 Profiler를 사용한에 디버깅해본 경험이 있습니다.</br>구글 애드몹, Firebase 등의 외부 라이브러리를 사용한 경험이 있습니다.</br>9개의 모바일 게임을 개발하였고, 5개의 게임을 플레이스토어에 출시하였습니다.</center>
 
