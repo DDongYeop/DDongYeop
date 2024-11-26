@@ -11,11 +11,6 @@
  <img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=Cplusplus&logoColor=white">
  <img src="https://img.shields.io/badge/-Git-red?logo=git&logoColor=white">
  <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-
-</p>
-
-### <center>[ TECH STACK ]</center>
-<p align="center">
  <img src="https://img.shields.io/badge/-UE5-white?logo=unrealengine&logoColor=white&color=%230E1128">
  <img src="https://img.shields.io/badge/-WinAPI-blue?logo=windows%20xp&logoColor=white">
 </p>
