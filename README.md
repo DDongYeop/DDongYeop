@@ -8,7 +8,7 @@
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white)](https://ddongyeop.tistory.com/)
 [![solved.ac](https://img.shields.io/badge/solved.ac-17CE3A?style=flat-square)](https://solved.ac/profile/ddongyeop0129)
 
-<img src="https://skillicons.dev/icons?i=unity,cs,cpp,unreal,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,git&theme=dark" />
 
 </div>
 
